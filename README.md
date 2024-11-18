@@ -1,4 +1,4 @@
-# Nigeria-Banks-Logo-API
+# Nigeria Banks Logo API
 
 ## Introduction
 
