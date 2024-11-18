@@ -7,3 +7,7 @@ This Api maintains a JSON file containing a list of Nigerian Banks and their Log
 ## Usage
 
 Make a get request to `https://jsanwo64.github.io/Nigeria-Banks-Logo-API/Banks.json`
+
+## Or Use CDN
+
+Use JSDelivr CDN by making a GET request to `https://cdn.jsdelivr.net/gh/jsanwo64/Nigeria-Banks-Logo-API/Banks.json`
