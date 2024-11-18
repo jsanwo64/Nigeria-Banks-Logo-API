@@ -646,7 +646,8 @@
         {
             "name": "Kuda Bank",
             "slug": "kuda-bank",
-            "code": "50211"
+            "code": "50211",
+            "logo": "https://res.cloudinary.com/dweovytuc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1731835102/Kuda_Bank_f5nrij.png"
             
            
         },
@@ -780,7 +781,7 @@
             "name": "OPay Digital Services Limited (OPay)",
             "slug": "paycom",
             "code": "999992",
-            "logo": ""
+            "logo": "https://res.cloudinary.com/dweovytuc/image/upload/v1731910673/OPay_Digital_Services_Limited__OPay_zyh5d0.png"
            
         },
         {
