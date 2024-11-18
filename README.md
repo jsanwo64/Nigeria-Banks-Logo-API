@@ -8,4 +8,4 @@ This project aims to simplify bank data used by developers for Fintech APIs (Flu
 
 ## Usage
 
-Make a get request to `https://nigerianbanks.xyz`
+Make a get request to `https://jsanwo64.github.io/Nigeria-Banks-Logo-API/Banks.json`
