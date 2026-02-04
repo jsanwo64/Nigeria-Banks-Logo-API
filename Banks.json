@@ -1,5 +1,12 @@
 [
         {
+            "name": "78 Finance Company Ltd (Bank78)",
+            "slug": "78-finance-company-ltd-bank78",
+            "code": "110072",
+            "logo": "https://res.cloudinary.com/dweovytuc/image/upload/v1770235999/78logo_xalpln.png"
+           
+        },
+        {
             "name": "9mobile 9Payment Service Bank",
             "slug": "9mobile-9payment-service-bank-ng",
             "code": "120001",
